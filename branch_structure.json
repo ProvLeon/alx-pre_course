@@ -1,0 +1,18 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "master",
+    "origin",
+    "update_script"
+  ],
+  "parent": {
+    "master": null,
+    "origin": "master",
+    "update_script": "master"
+  },
+  "order": [
+    "master",
+    "origin",
+    "update_script"
+  ]
+}
