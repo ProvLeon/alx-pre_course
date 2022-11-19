@@ -1,0 +1,8 @@
+#ignore all ~ files
+~
+
+#ignore all files that end with .~
+*.~
+
+#ignore all files that have begining with ~
+~*
